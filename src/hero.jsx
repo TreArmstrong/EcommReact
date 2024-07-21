@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import Video from '/Users/Tra/Desktop/ecomm2/src/videos-images /heroVid.mp4' 
+import Video from '/Users/Tra/Desktop/ecomm2copy/src/videos-images /heroVid.mp4' 
 
 
 
