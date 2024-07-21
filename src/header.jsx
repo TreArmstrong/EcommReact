@@ -1,15 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom'; // Import Link from React Router
 import './styles.css';
-import Logo from '/Users/Tra/Desktop/ecomm2copy/src/videos-images /DClogo1.png' 
+// import Logo from '/Users/Tra/Desktop/ecomm2copy/src/videos-images /DClogo1.png' 
 
 function Header() {
   return (
     <header>
-      <div className="logo">
+      {/* <div className="logo">
         <img src={Logo} alt="Logo" />
 
-      </div>
+      </div> */}
       <nav>
         <ul>
           <li><Link to="/">Home</Link></li>
