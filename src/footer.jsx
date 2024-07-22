@@ -1,11 +1,11 @@
 import React from 'react';
 import './styles.css';
 import scrollToTop from './scrollUtils'; 
-import Facebook from '/src/videos-images /facebook.svg'
-import Instagram from '/src/videos-images /instagram.svg'
-import TikTok from '/src/videos-images /tiktok.svg'
-import YouTube from '/src/videos-images /youtube.svg'
-import Logo from '/src/videos-images /DClogo2.png'
+import Facebook from './videos-images /facebook.svg'
+import Instagram from './videos-images /instagram.svg'
+import TikTok from './videos-images /tiktok.svg'
+import YouTube from './videos-images /youtube.svg'
+import Logo from './videos-images /DClogo2.png'
 
 function Footer() {
   return (
