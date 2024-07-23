@@ -11,9 +11,9 @@ const router = express.Router()
 const db = mysql.createConnection({
     host: 'sql5.freesqldatabase.com',
     PORT: 3306,
-    user: 'sql5719924',
-    password: 'Wy1MT5sShg',
-    database: 'sql5719924'
+    user: 'sql5721723',
+    password: 'xmWikf8eHf',
+    database: 'sql5721723'
 });
 
 db.connect((err) => {
